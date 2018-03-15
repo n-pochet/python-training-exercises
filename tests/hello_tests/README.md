@@ -3,7 +3,7 @@
 Implement the `hello` function in `hello.py`
 It should return a nice greeting to the person who calls it and defaults to `you` if no value is provided.
 
-# Run the tests
+## Run the tests
 
 ```
 python hello_test.py
