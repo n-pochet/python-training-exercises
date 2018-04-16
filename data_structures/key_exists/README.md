@@ -6,7 +6,7 @@ It should return `True` if the key exists (`False` if it doesn't)
 ## Run the tests
 
 ```
-python key_exists.py
+python key_exists_tests.py
 ```
 
 It should output a positive result:
