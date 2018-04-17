@@ -4,6 +4,15 @@ HEADER = """Name:     Status:
 -----------------\n"""
 
 def status(if_statuses):
+    """Status
+    
+    Arguments:
+        if_statuses {list} -- List of interface statuses
+    
+    Returns:
+        str -- Pretty printed output
+    """
+
     status = HEADER
     status_template = "{0:<9} {1:<4}\n"
     if if_statuses is None:
