@@ -11,10 +11,7 @@ Example:
 >>> to_file('filename', l)
 ```
 
-filename contains now:
-
-```
-```
+`filename` contains now: `[1, '2', 3]`
 
 ## Run the tests
 
